@@ -1,3 +1,7 @@
-This directory should contain the BigCloneBenchDB.
+## BigCloneBench Dataset
 
-The download for this is available at jeff.svajlenko.com/bigcloneeval
+The dataset (`bcb.h2.db`) is required for running the BigCloneEval tool. Due to its size, the dataset is not included in this repository 
+but can be downloaded from google drive.
+
+[Download BigCloneBench Dataset (bcb.h2.db)]
+
